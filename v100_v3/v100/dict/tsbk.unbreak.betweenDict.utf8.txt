@@ -1,0 +1,12 @@
+﻿# file: $TEHOME/segmentation/dict/tsbk.unbreak.betweenDict.utf8.txt
+# Version 2 2022-08-31 Sarayut Chaisuriya
+#
+# Warning
+# Comma here means unbreak position
+ก,ษัตริย์
+ษัต,ริย์
+อ,ย่า
+อ,ย่าง
+อ,ยู่
+อ,ยาก
+### segmentation/dict/tsbk.unbreak.betweenDict.utf8.txt ###

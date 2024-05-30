@@ -1,0 +1,8 @@
+﻿# file: $TEHOME/segmentation/dict/tsbk.betweenDict.utf8.txt
+# Version 1 2022-08-17 Sarayut Chaisuriya
+ผ,ลิต
+กรุง,เทพ
+มหา,นคร
+มหา,กษัตริย์
+ก,ษัตริย์
+### segmentation/dict/tsbk.betweenDict.utf8.txt ###
